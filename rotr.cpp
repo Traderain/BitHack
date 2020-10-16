@@ -1,3 +1,6 @@
+/*
+	Rotr calc in save restoring
+*/
 inline unsigned CSaveRestoreSegment::_rotr ( unsigned val, int shift)
 {
 		register unsigned lobit;        /* non-zero means lo bit set */
