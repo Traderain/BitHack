@@ -15,4 +15,4 @@ inline unsigned CSaveRestoreSegment::_rotr ( unsigned val, int shift)
 		}
 
 		return num;
-}
+} 
